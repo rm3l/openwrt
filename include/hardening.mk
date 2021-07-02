@@ -64,3 +64,4 @@ ifdef CONFIG_PKG_RELRO_FULL
   endif
 endif
 
+TARGET_CFLAGS += -fstack-clash-protection -fwrapv
