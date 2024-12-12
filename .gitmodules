@@ -1,0 +1,3 @@
+[submodule "contrib/Divested-WRT"]
+	path = contrib/Divested-WRT
+	url = git@github.com:divestedcg/Divested-WRT.git
